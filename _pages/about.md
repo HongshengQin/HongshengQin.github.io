@@ -6,7 +6,7 @@ subtitle: Computational Microscopy.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: qhs_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Hongsheng Qin, 18846055221</p>
