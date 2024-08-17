@@ -17,7 +17,7 @@ keywords: #jekyll, jekyll-theme, academic-website, portfolio-website # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: capybara_icon.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: MingSun-KAUST.github.io # the base hostname & protocol for your site
+url: HongshengQin.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -78,7 +78,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: MingSun-KAUST# your GitHub user name
+github_username: HongshengQin# your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -89,12 +89,12 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: ming-sun-1814901b1 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0009-0003-8720-7273 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Ming_Sun68 # your profile on ResearchGate
+research_gate_profile: https://www.researchgate.net/profile/Hongsheng-Qin # your profile on ResearchGate
 scholar_userid: G-rYUmoAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
@@ -102,7 +102,7 @@ spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
-wechat_qr: wechat_qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_qr: #wechat_qr.jpg # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: # 957088201your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
