@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computational Microscopy.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hongsheng Qin, 18846055221</p>
+    <p>Harbin Institute of Technology Science Park</p>
+    <p>Harbin, No. 2 Yikuang Street, Nangang District</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Hongsheng Qin , and I am currently a Ph.D. student enrolled in the Fall 2021 semester in the Department of Harbin Institute of Technology (HIT). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am fortunate to be under the guidance of Prof. [Zhen-gang Lu](https://homepage.hit.edu.cn/luzhengang). from the Department of Instrument at Harbin Institute of Technology (HIT, 985). I've embarked on an enriching journey at the intersection of optics and computer science. I also earned my Bachelor's degree in Measurement and Control Technology and Instruments with honors from North China Electric Power University (NCEPU, 211). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have currently published one article in the top instrument journal IEEE TIM (JCR Zone 1) and one article in the optical journal OLEN (JCR Zone 1). Publish 4 Chinese invention patents. Received 1 national level honor and 11 provincial and ministerial level honors in subject competitions. 
+
+I have received 6 scholarships, including the China National Scholarship and the Guanyu Outstanding Doctoral Scholarship. Received the title of Outstanding Student in Heilongjiang Province and participated in the Outstanding Graduate International Exchange Program.
+
+My research interests including defect detection, Light field camera,  computational imaging and Deep learning. 
