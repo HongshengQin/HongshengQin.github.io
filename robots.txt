@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: MingSun-KAUST.github.io/sitemap.xml
+Sitemap: HongshengQin.github.io/sitemap.xml
