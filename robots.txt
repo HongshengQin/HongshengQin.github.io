@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: HongshengQin.github.io/sitemap.xml
+Sitemap: qinhs02.github.io/sitemap.xml
